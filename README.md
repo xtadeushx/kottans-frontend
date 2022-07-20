@@ -5,5 +5,4 @@ I am beginner frontend developer. The course about Git was very helpful and  int
 
 # Linux CLI, and HTTP
 ![linux screen shot](/task_linux_cli/linux.jpg)
-<linux.jpg> 
 The tasks were very interesting for me. I will use Linux in future.
