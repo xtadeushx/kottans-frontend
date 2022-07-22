@@ -14,6 +14,12 @@ The tasks were very interesting and interactive for me. I tok a lot of pleasures
 
 ## Intro to HTML and CSS
 ![HTML and CSS screen shot](task_html_css_intro/HTML_CSS_basic.jpg))
-The tasks were very interesting and interactive for me. I will use Linux in future.
+The tasks were very interesting and interactive for me.
 The lectors were simple to understand. 
+
+## Responsive web design basics
+![flex-box](task_responsive_web_design/flex-box.jpg)
+![grid](task_responsive_web_design/Grid-template.jpg)
+The tasks were very interesting especially FOG game. I used to use flex-box in the PAST.
+But I didn't know some features of flex-box and grid, so I will use it in the future.
 
