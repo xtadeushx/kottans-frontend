@@ -23,3 +23,6 @@ The lectors were simple to understand.
 The tasks were very interesting especially FOG game. I used to use flex-box in the PAST.
 But I didn't know some features of flex-box and grid, so I will use it in the future.
 
+## DOM
+![DOM](task_js_dom/algoritms.jpg)
+The tasks in this section were quite difficult for me. But I did it. In general, the tasks are varied and interesting. They make you think and read the documentation.
